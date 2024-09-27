@@ -1,3 +1,3 @@
 export function log(mensagem) {
-  console.log("Adicionando log via função", mensagem);
+  console.log("Adicionando log via função após GitHubActions!", mensagem);
 }
